@@ -150,5 +150,5 @@ Analyzes operational risk and return behavior:
 
 ## 👤 Author
 **Grittapop**  
-Data Analyst | Data Engineer  
+Data Analyst | Data Engineer | Analytics Engineer 
 Skills: Power BI • DAX • Data Modeling • Data Visualization
