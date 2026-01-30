@@ -84,6 +84,9 @@ Key measures created using DAX include:
 ## 📊 Dashboard Pages
 
 ### 1️⃣ Executive Overview
+
+![executive_overview](https://github.com/user-attachments/assets/cc6f6a73-1e7d-464f-ac3a-a0cb1d1869ab)
+
 Provides a high-level snapshot for decision-makers:
 - Total Revenue with YoY comparison
 - Total Units Sold
@@ -97,6 +100,9 @@ Provides a high-level snapshot for decision-makers:
 ---
 
 ### 2️⃣ Product & Category Performance
+
+![product_category_performance](https://github.com/user-attachments/assets/a2ffac08-af1d-4132-b980-30f3f1c06185)
+
 Focuses on identifying sales drivers:
 - Best Seller Product
 - Highest Revenue Product
@@ -111,6 +117,9 @@ Focuses on identifying sales drivers:
 ---
 
 ### 3️⃣ Risk & Operational Insight
+
+![risk_operational_insight](https://github.com/user-attachments/assets/2bb367a4-2986-445c-bd91-3960b636088f)
+
 Analyzes operational risk and return behavior:
 - Overall Return Rate %
 - Highest Return Rate Product
@@ -138,3 +147,8 @@ Analyzes operational risk and return behavior:
 - Power Query
 - Star Schema Data Modeling
 - Data Visualization & Analytical Storytelling
+
+## 👤 Author
+**Grittapop**  
+Data Analyst | Data Engineer  
+Skills: Power BI • DAX • Data Modeling • Data Visualization
