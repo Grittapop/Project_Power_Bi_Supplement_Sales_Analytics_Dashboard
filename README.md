@@ -101,7 +101,7 @@ Provides a high-level snapshot for decision-makers:
 
 ### 2️⃣ Product & Category Performance
 
-![product_category_performance](https://github.com/user-attachments/assets/a2ffac08-af1d-4132-b980-30f3f1c06185)
+![product   category performance](https://github.com/user-attachments/assets/7732b36a-2d2b-4808-8fa6-564392b75f84)
 
 Focuses on identifying sales drivers:
 - Best Seller Product
