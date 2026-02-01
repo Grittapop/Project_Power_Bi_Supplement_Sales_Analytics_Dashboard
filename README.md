@@ -85,7 +85,8 @@ Key measures created using DAX include:
 
 ### 1️⃣ Executive Overview
 
-![executive_overview](https://github.com/user-attachments/assets/dc9d4edf-0860-4ed1-b07b-785d685ca08b)
+![executive_overview](https://github.com/user-attachments/assets/ce79a52b-e322-4af0-9d58-6ca395dc2d7f)
+
 
 Provides a high-level snapshot for decision-makers:
 - Total Revenue with YoY comparison
@@ -101,7 +102,7 @@ Provides a high-level snapshot for decision-makers:
 
 ### 2️⃣ Product & Category Performance
 
-![product   category performance](https://github.com/user-attachments/assets/c5bd356d-56ea-4f69-afba-9ad662f407f8)
+![product   category performance](https://github.com/user-attachments/assets/def38972-0c7d-4148-a5fc-6606ff651863)
 
 
 Focuses on identifying sales drivers:
@@ -119,7 +120,8 @@ Focuses on identifying sales drivers:
 
 ### 3️⃣ Risk & Operational Insight
 
-![risk_operational_insight](https://github.com/user-attachments/assets/8769443e-67b0-42c3-9da9-90567a5b4457)
+![risk_operational_insight](https://github.com/user-attachments/assets/eae9ca83-ffc9-4e7a-b6f8-85477308efc9)
+
 
 Analyzes operational risk and return behavior:
 - Overall Return Rate %
